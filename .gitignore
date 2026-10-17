@@ -1,0 +1,21 @@
+# Large data files: documented in data/README.md, not stored in Git
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Python / Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Power BI temp files
+*.pbix.tmp

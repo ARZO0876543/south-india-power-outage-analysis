@@ -1,0 +1,152 @@
+unit,forced_episodes,repeats,capacity_mw,state,fuel,repeat_pct,trips_per_year
+Adani Power Limited Udupi Tpp | Unit 1,5,2,600.0,Karnataka,Coal/Lignite,40.0,0.7426799511996747
+Adani Power Limited Udupi Tpp | Unit 2,4,1,600.0,Karnataka,Coal/Lignite,25.0,0.5941439609597396
+Bellary Tps | Unit 1,29,7,500.0,Karnataka,Coal/Lignite,24.13793103448276,4.307543716958113
+Bellary Tps | Unit 2,23,4,500.0,Karnataka,Coal/Lignite,17.391304347826086,3.416327775518503
+Bellary Tps | Unit 3,70,49,700.0,Karnataka,Coal/Lignite,70.0,10.397519316795444
+Bhadradri Tpp | Unit 1,61,45,270.0,Telangana,Coal/Lignite,73.77049180327869,9.06069540463603
+Bhadradri Tpp | Unit 2,36,23,270.0,Telangana,Coal/Lignite,63.888888888888886,5.347295648637657
+Bhadradri Tpp | Unit 3,34,16,270.0,Telangana,Coal/Lignite,47.05882352941176,5.050223668157788
+Bhadradri Tpp | Unit 4,32,14,270.0,Telangana,Coal/Lignite,43.75,4.753151687677917
+Damodaram Sanjeevaiah Tps | Unit 1,55,26,800.0,Andhra Pradesh,Coal/Lignite,47.27272727272727,8.16947946319642
+Damodaram Sanjeevaiah Tps | Unit 2,62,34,800.0,Andhra Pradesh,Coal/Lignite,54.83870967741935,9.209231394875966
+Damodaram Sanjeevaiah Tps | Unit 3,35,30,800.0,Andhra Pradesh,Coal/Lignite,85.71428571428571,5.198759658397722
+Dr. N.Tata Rao Tps | Unit 1,51,24,210.0,Andhra Pradesh,Coal/Lignite,47.05882352941176,7.5753355022366815
+Dr. N.Tata Rao Tps | Unit 2,51,22,210.0,Andhra Pradesh,Coal/Lignite,43.13725490196079,7.5753355022366815
+Dr. N.Tata Rao Tps | Unit 3,31,12,210.0,Andhra Pradesh,Coal/Lignite,38.70967741935484,4.604615697437983
+Dr. N.Tata Rao Tps | Unit 4,26,6,210.0,Andhra Pradesh,Coal/Lignite,23.07692307692308,3.861935746238308
+Dr. N.Tata Rao Tps | Unit 5,40,18,210.0,Andhra Pradesh,Coal/Lignite,45.0,5.941439609597397
+Dr. N.Tata Rao Tps | Unit 6,34,13,210.0,Andhra Pradesh,Coal/Lignite,38.23529411764706,5.050223668157788
+Dr. N.Tata Rao Tps | Unit 7,28,6,500.0,Andhra Pradesh,Coal/Lignite,21.428571428571427,4.159007726718178
+Dr. N.Tata Rao Tps | Unit 8,15,13,800.0,Andhra Pradesh,Coal/Lignite,86.66666666666667,2.228039853599024
+Itpcl Tpp | Unit 1,15,5,600.0,Tamil Nadu,Coal/Lignite,33.33333333333333,2.228039853599024
+Itpcl Tpp | Unit 2,10,1,600.0,Tamil Nadu,Coal/Lignite,10.0,1.4853599023993491
+Kaiga | Unit 1,6,1,220.0,Karnataka,Nuclear,16.666666666666664,0.8912159414396096
+Kaiga | Unit 2,5,0,220.0,Karnataka,Nuclear,0.0,0.7426799511996747
+Kaiga | Unit 3,2,0,220.0,Karnataka,Nuclear,0.0,0.2970719804798698
+Kaiga | Unit 4,4,0,220.0,Karnataka,Nuclear,0.0,0.5941439609597396
+Kakatiya Tps | Unit 1,57,30,500.0,Telangana,Coal/Lignite,52.63157894736842,8.466551443676291
+Kakatiya Tps | Unit 2,49,21,600.0,Telangana,Coal/Lignite,42.85714285714285,7.278263521756811
+Kothagudem Tps (New) | Unit 1,10,7,250.0,Telangana,Coal/Lignite,70.0,1.4853599023993491
+Kothagudem Tps (New) | Unit 10,58,29,250.0,Telangana,Coal/Lignite,50.0,8.615087433916226
+Kothagudem Tps (New) | Unit 11,41,20,500.0,Telangana,Coal/Lignite,48.78048780487805,6.089975599837332
+Kothagudem Tps (New) | Unit 2,8,4,250.0,Telangana,Coal/Lignite,50.0,1.1882879219194793
+Kothagudem Tps (New) | Unit 3,12,7,500.0,Telangana,Coal/Lignite,58.333333333333336,1.7824318828792192
+Kothagudem Tps (New) | Unit 9,44,24,250.0,Telangana,Coal/Lignite,54.54545454545454,6.535583570557137
+Kothagudem Tps (Stage-7) | Unit 12,60,36,800.0,Telangana,Coal/Lignite,60.0,8.912159414396095
+Kothagudem Tps | Unit 1,18,10,60.0,Telangana,Coal/Lignite,55.55555555555556,2.6736478243188286
+Kothagudem Tps | Unit 2,11,3,60.0,Telangana,Coal/Lignite,27.27272727272727,1.633895892639284
+Kothagudem Tps | Unit 3,2,0,60.0,Telangana,Coal/Lignite,0.0,0.2970719804798698
+Kothagudem Tps | Unit 4,8,4,60.0,Telangana,Coal/Lignite,50.0,1.1882879219194793
+Kothagudem Tps | Unit 5,21,14,120.0,Telangana,Coal/Lignite,66.66666666666666,3.119255795038633
+Kothagudem Tps | Unit 6,10,5,120.0,Telangana,Coal/Lignite,50.0,1.4853599023993491
+Kothagudem Tps | Unit 7,10,2,120.0,Telangana,Coal/Lignite,20.0,1.4853599023993491
+Kothagudem Tps | Unit 8,13,7,120.0,Telangana,Coal/Lignite,53.84615384615385,1.930967873119154
+Kudankulam | Unit 1,8,4,1000.0,Tamil Nadu,Nuclear,50.0,1.1882879219194793
+Kudankulam | Unit 2,10,1,1000.0,Tamil Nadu,Nuclear,10.0,1.4853599023993491
+Kudgi Stpp | Unit 1,20,7,800.0,Karnataka,Coal/Lignite,35.0,2.9707198047986987
+Kudgi Stpp | Unit 2,16,5,800.0,Karnataka,Coal/Lignite,31.25,2.3765758438389586
+Kudgi Stpp | Unit 3,17,6,800.0,Karnataka,Coal/Lignite,35.294117647058826,2.525111834078894
+Madras A.P.S | Unit 2,7,0,220.0,Tamil Nadu,Nuclear,0.0,1.0397519316795445
+Mettur Tps - Ii | Unit 1,39,18,600.0,Tamil Nadu,Coal/Lignite,46.15384615384615,5.792903619357462
+Mettur Tps | Unit 1,40,18,210.0,Tamil Nadu,Coal/Lignite,45.0,5.941439609597397
+Mettur Tps | Unit 2,37,13,210.0,Tamil Nadu,Coal/Lignite,35.13513513513514,5.4958316388775925
+Mettur Tps | Unit 3,41,16,210.0,Tamil Nadu,Coal/Lignite,39.02439024390244,6.089975599837332
+Mettur Tps | Unit 4,33,14,210.0,Tamil Nadu,Coal/Lignite,42.42424242424242,4.901687677917852
+Muthiara Tpp | Unit 1,30,16,600.0,Tamil Nadu,Coal/Lignite,53.333333333333336,4.456079707198048
+Muthiara Tpp | Unit 2,39,23,600.0,Tamil Nadu,Coal/Lignite,58.97435897435898,5.792903619357462
+Neyveli ( Ext) Tps | Unit 1,24,6,210.0,Tamil Nadu,Coal/Lignite,25.0,3.5648637657584383
+Neyveli ( Ext) Tps | Unit 2,22,4,210.0,Tamil Nadu,Coal/Lignite,18.181818181818183,3.2677917852785683
+Neyveli New Tpp | Unit 1,57,38,500.0,Tamil Nadu,Coal/Lignite,66.66666666666666,8.466551443676291
+Neyveli New Tpp | Unit 2,39,20,500.0,Tamil Nadu,Coal/Lignite,51.28205128205128,5.792903619357462
+Neyveli Tps(Z) | Unit 1,44,20,250.0,Tamil Nadu,Coal/Lignite,45.45454545454545,6.535583570557137
+Neyveli Tps-I | Unit 1,12,4,50.0,Tamil Nadu,Coal/Lignite,33.33333333333333,1.7824318828792192
+Neyveli Tps-I | Unit 2,7,1,50.0,Tamil Nadu,Coal/Lignite,14.285714285714285,1.0397519316795445
+Neyveli Tps-I | Unit 3,9,2,50.0,Tamil Nadu,Coal/Lignite,22.22222222222222,1.3368239121594143
+Neyveli Tps-I | Unit 4,11,4,50.0,Tamil Nadu,Coal/Lignite,36.36363636363637,1.633895892639284
+Neyveli Tps-I | Unit 5,5,0,50.0,Tamil Nadu,Coal/Lignite,0.0,0.7426799511996747
+Neyveli Tps-I | Unit 6,10,3,50.0,Tamil Nadu,Coal/Lignite,30.0,1.4853599023993491
+Neyveli Tps-I | Unit 7,2,0,100.0,Tamil Nadu,Coal/Lignite,0.0,0.2970719804798698
+Neyveli Tps-I | Unit 8,3,0,100.0,Tamil Nadu,Coal/Lignite,0.0,0.4456079707198048
+Neyveli Tps-I | Unit 9,9,1,100.0,Tamil Nadu,Coal/Lignite,11.11111111111111,1.3368239121594143
+Neyveli Tps-Ii Exp | Unit 1,96,85,250.0,Tamil Nadu,Coal/Lignite,88.54166666666666,14.259455063033752
+Neyveli Tps-Ii Exp | Unit 2,104,94,250.0,Tamil Nadu,Coal/Lignite,90.3846153846154,15.447742984953232
+Neyveli Tps-Ii | Unit 1,54,26,210.0,Tamil Nadu,Coal/Lignite,48.14814814814815,8.020943472956485
+Neyveli Tps-Ii | Unit 2,66,38,210.0,Tamil Nadu,Coal/Lignite,57.57575757575758,9.803375355835705
+Neyveli Tps-Ii | Unit 3,57,32,210.0,Tamil Nadu,Coal/Lignite,56.14035087719298,8.466551443676291
+Neyveli Tps-Ii | Unit 4,54,31,210.0,Tamil Nadu,Coal/Lignite,57.407407407407405,8.020943472956485
+Neyveli Tps-Ii | Unit 5,41,21,210.0,Tamil Nadu,Coal/Lignite,51.21951219512195,6.089975599837332
+Neyveli Tps-Ii | Unit 6,42,19,210.0,Tamil Nadu,Coal/Lignite,45.23809523809524,6.238511590077267
+Neyveli Tps-Ii | Unit 7,40,21,210.0,Tamil Nadu,Coal/Lignite,52.5,5.941439609597397
+North Chennai Tps | Unit 1,100,71,210.0,Tamil Nadu,Coal/Lignite,71.0,14.853599023993493
+North Chennai Tps | Unit 2,91,67,210.0,Tamil Nadu,Coal/Lignite,73.62637362637363,13.51677511183408
+North Chennai Tps | Unit 3,96,76,210.0,Tamil Nadu,Coal/Lignite,79.16666666666666,14.259455063033752
+North Chennai Tps | Unit 4,86,64,600.0,Tamil Nadu,Coal/Lignite,74.4186046511628,12.774095160634404
+North Chennai Tps | Unit 5,82,61,600.0,Tamil Nadu,Coal/Lignite,74.39024390243902,12.179951199674663
+Ntpl Tuticorin Tpp | Unit 1,14,5,500.0,Tamil Nadu,Coal/Lignite,35.714285714285715,2.079503863359089
+Ntpl Tuticorin Tpp | Unit 2,32,20,500.0,Tamil Nadu,Coal/Lignite,62.5,4.753151687677917
+Opg Power Generation Private Limited | Unit 1,4,3,77.0,Tamil Nadu,Coal/Lignite,75.0,0.5941439609597396
+Opg Power Generation Private Limited | Unit 2,1,0,77.0,Tamil Nadu,Coal/Lignite,0.0,0.1485359902399349
+Opg Power Generation Private Limited | Unit 3,2,1,80.0,Tamil Nadu,Coal/Lignite,50.0,0.2970719804798698
+Opg Power Generation Private Limited | Unit 4,2,0,180.0,Tamil Nadu,Coal/Lignite,0.0,0.2970719804798698
+Painampuram Tpp | Unit 1,32,13,660.0,Andhra Pradesh,Coal/Lignite,40.625,4.753151687677917
+Painampuram Tpp | Unit 2,40,15,660.0,Andhra Pradesh,Coal/Lignite,37.5,5.941439609597397
+Raichur Tps | Unit 1,75,58,210.0,Karnataka,Coal/Lignite,77.33333333333333,11.14019926799512
+Raichur Tps | Unit 2,92,75,210.0,Karnataka,Coal/Lignite,81.52173913043478,13.665311102074012
+Raichur Tps | Unit 3,44,22,210.0,Karnataka,Coal/Lignite,50.0,6.535583570557137
+Raichur Tps | Unit 4,40,13,210.0,Karnataka,Coal/Lignite,32.5,5.941439609597397
+Raichur Tps | Unit 5,51,27,210.0,Karnataka,Coal/Lignite,52.94117647058824,7.5753355022366815
+Raichur Tps | Unit 6,43,23,210.0,Karnataka,Coal/Lignite,53.48837209302325,6.387047580317201
+Raichur Tps | Unit 7,45,26,210.0,Karnataka,Coal/Lignite,57.77777777777777,6.684119560797072
+Raichur Tps | Unit 8,57,33,250.0,Karnataka,Coal/Lignite,57.89473684210527,8.466551443676291
+Ramagundem Stps | Unit 1,32,13,200.0,Telangana,Coal/Lignite,40.625,4.753151687677917
+Ramagundem Stps | Unit 2,24,8,200.0,Telangana,Coal/Lignite,33.33333333333333,3.5648637657584383
+Ramagundem Stps | Unit 3,29,12,200.0,Telangana,Coal/Lignite,41.37931034482759,4.307543716958113
+Ramagundem Stps | Unit 4,27,7,500.0,Telangana,Coal/Lignite,25.925925925925924,4.010471736478243
+Ramagundem Stps | Unit 5,31,13,500.0,Telangana,Coal/Lignite,41.935483870967744,4.604615697437983
+Ramagundem Stps | Unit 6,39,17,500.0,Telangana,Coal/Lignite,43.58974358974359,5.792903619357462
+Ramagundem Stps | Unit 7,19,6,500.0,Telangana,Coal/Lignite,31.57894736842105,2.8221838145587634
+Ramagundem-B Tps | Unit 1,104,85,62.5,Telangana,Coal/Lignite,81.73076923076923,15.447742984953232
+Rayalaseema Tps | Unit 1,40,19,210.0,Andhra Pradesh,Coal/Lignite,47.5,5.941439609597397
+Rayalaseema Tps | Unit 2,82,65,210.0,Andhra Pradesh,Coal/Lignite,79.26829268292683,12.179951199674663
+Rayalaseema Tps | Unit 3,19,5,210.0,Andhra Pradesh,Coal/Lignite,26.31578947368421,2.8221838145587634
+Rayalaseema Tps | Unit 4,33,12,210.0,Andhra Pradesh,Coal/Lignite,36.36363636363637,4.901687677917852
+Rayalaseema Tps | Unit 5,29,14,210.0,Andhra Pradesh,Coal/Lignite,48.27586206896552,4.307543716958113
+Rayalaseema Tps | Unit 6,63,38,600.0,Andhra Pradesh,Coal/Lignite,60.31746031746032,9.3577673851159
+Sgpl Tpp | Unit 1,31,13,660.0,Andhra Pradesh,Coal/Lignite,41.935483870967744,4.604615697437983
+Sgpl Tpp | Unit 2,25,5,660.0,Andhra Pradesh,Coal/Lignite,20.0,3.713399755998373
+Simhadri | Unit 1,18,5,500.0,Andhra Pradesh,Coal/Lignite,27.77777777777778,2.6736478243188286
+Simhadri | Unit 2,17,4,500.0,Andhra Pradesh,Coal/Lignite,23.52941176470588,2.525111834078894
+Simhadri | Unit 3,16,5,500.0,Andhra Pradesh,Coal/Lignite,31.25,2.3765758438389586
+Simhadri | Unit 4,23,6,500.0,Andhra Pradesh,Coal/Lignite,26.08695652173913,3.416327775518503
+Simhapuri Tps | Unit 1,12,5,150.0,Andhra Pradesh,Coal/Lignite,41.66666666666667,1.7824318828792192
+Simhapuri Tps | Unit 2,19,11,150.0,Andhra Pradesh,Coal/Lignite,57.89473684210527,2.8221838145587634
+Simhapuri Tps | Unit 3,11,3,150.0,Andhra Pradesh,Coal/Lignite,27.27272727272727,1.633895892639284
+Simhapuri Tps | Unit 4,12,5,150.0,Andhra Pradesh,Coal/Lignite,41.66666666666667,1.7824318828792192
+Singareni Tpp | Unit 1,55,25,600.0,Telangana,Coal/Lignite,45.45454545454545,8.16947946319642
+Singareni Tpp | Unit 2,40,15,600.0,Telangana,Coal/Lignite,37.5,5.941439609597397
+Telangana Stpp Ph-1 | Unit 1,12,7,800.0,Telangana,Coal/Lignite,58.333333333333336,1.7824318828792192
+Telangana Stpp Ph-1 | Unit 2,4,2,800.0,Telangana,Coal/Lignite,50.0,0.5941439609597396
+Thamminapatnam Tps | Unit 1,33,32,150.0,Andhra Pradesh,Coal/Lignite,96.96969696969695,4.901687677917852
+Thamminapatnam Tps | Unit 2,24,20,150.0,Andhra Pradesh,Coal/Lignite,83.33333333333334,3.5648637657584383
+Torangallu Tps(Sbu-I) | Unit 1,10,2,130.0,Karnataka,Coal/Lignite,20.0,1.4853599023993491
+Torangallu Tps(Sbu-I) | Unit 2,6,0,130.0,Karnataka,Coal/Lignite,0.0,0.8912159414396096
+Torangallu Tps(Sbu-Ii) | Unit 3,15,3,300.0,Karnataka,Coal/Lignite,20.0,2.228039853599024
+Torangallu Tps(Sbu-Ii) | Unit 4,11,3,300.0,Karnataka,Coal/Lignite,27.27272727272727,1.633895892639284
+Tuticorin (Jv) Tpp | Unit 1,19,9,500.0,Tamil Nadu,Coal/Lignite,47.368421052631575,2.8221838145587634
+Tuticorin (Jv) Tpp | Unit 2,17,7,500.0,Tamil Nadu,Coal/Lignite,41.17647058823529,2.525111834078894
+Tuticorin Tpp St-Iv | Unit 1,8,1,525.0,Tamil Nadu,Coal/Lignite,12.5,1.1882879219194793
+Tuticorin Tps | Unit 1,87,59,210.0,Tamil Nadu,Coal/Lignite,67.81609195402298,12.922631150874338
+Tuticorin Tps | Unit 2,100,80,210.0,Tamil Nadu,Coal/Lignite,80.0,14.853599023993493
+Tuticorin Tps | Unit 3,92,68,210.0,Tamil Nadu,Coal/Lignite,73.91304347826086,13.665311102074012
+Tuticorin Tps | Unit 4,67,40,210.0,Tamil Nadu,Coal/Lignite,59.70149253731343,9.95191134607564
+Tuticorin Tps | Unit 5,71,46,210.0,Tamil Nadu,Coal/Lignite,64.7887323943662,10.54605530703538
+Udupi Tpp | Unit 1,14,4,600.0,Karnataka,Coal/Lignite,28.57142857142857,2.079503863359089
+Udupi Tpp | Unit 2,16,6,600.0,Karnataka,Coal/Lignite,37.5,2.3765758438389586
+Vallur Tpp | Unit 1,46,21,500.0,Tamil Nadu,Coal/Lignite,45.65217391304348,6.832655551037006
+Vallur Tpp | Unit 2,45,25,500.0,Tamil Nadu,Coal/Lignite,55.55555555555556,6.684119560797072
+Vallur Tpp | Unit 3,42,20,500.0,Tamil Nadu,Coal/Lignite,47.61904761904761,6.238511590077267
+Vizag Tpp | Unit 1,16,2,520.0,Andhra Pradesh,Coal/Lignite,12.5,2.3765758438389586
+Vizag Tpp | Unit 2,10,1,520.0,Andhra Pradesh,Coal/Lignite,10.0,1.4853599023993491
+Yermarus Tpp | Unit 1,48,30,800.0,Karnataka,Coal/Lignite,62.5,7.129727531516877
+Yermarus Tpp | Unit 2,57,44,800.0,Karnataka,Coal/Lignite,77.19298245614034,8.466551443676291

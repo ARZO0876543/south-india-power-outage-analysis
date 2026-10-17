@@ -1,0 +1,326 @@
+days,prob_still_down,cause
+0.0,1.0,Technical (forced)
+0.0,0.8143418467583496,Technical (forced)
+1.0,0.5833005893909626,Technical (forced)
+2.0,0.373910634224976,Technical (forced)
+3.0,0.270484352366118,Technical (forced)
+4.0,0.2117776247586138,Technical (forced)
+5.0,0.1764484590253502,Technical (forced)
+6.0,0.1533562110320997,Technical (forced)
+7.0,0.1314481808846569,Technical (forced)
+8.0,0.1152395330161729,Technical (forced)
+9.0,0.1016005488341558,Technical (forced)
+10.0,0.0907077024679208,Technical (forced)
+11.0,0.0829836841354996,Technical (forced)
+12.0,0.0766308662112508,Technical (forced)
+13.0,0.0688480438616706,Technical (forced)
+14.0,0.0630608169863418,Technical (forced)
+15.0,0.0598678642275397,Technical (forced)
+16.0,0.0564753519213124,Technical (forced)
+17.0,0.0532823991625103,Technical (forced)
+18.0,0.0518854823305344,Technical (forced)
+19.0,0.0498898868562831,Technical (forced)
+20.0,0.0470960531923312,Technical (forced)
+21.0,0.0447013386232296,Technical (forced)
+22.0,0.0427057431489783,Technical (forced)
+23.0,0.0417079454118526,Technical (forced)
+24.0,0.0401114690324516,Technical (forced)
+25.0,0.0385149926530505,Technical (forced)
+26.0,0.0369185162736495,Technical (forced)
+27.0,0.0357211589890987,Technical (forced)
+28.0,0.0345238017045479,Technical (forced)
+29.0,0.0331268848725719,Technical (forced)
+30.0,0.0313199638795226,Technical (forced)
+31.0,0.030316118883384,Technical (forced)
+32.0,0.0291034741280486,Technical (forced)
+33.0,0.0276887219134907,Technical (forced)
+34.0,0.0272845069950456,Technical (forced)
+35.0,0.0262739696989328,Technical (forced)
+36.0,0.0254655398620426,Technical (forced)
+37.0,0.0248592174843749,Technical (forced)
+38.0,0.0242528951067072,Technical (forced)
+39.0,0.023444465269817,Technical (forced)
+40.0,0.0224339279737042,Technical (forced)
+41.0,0.0216254981368139,Technical (forced)
+42.0,0.0208170682999237,Technical (forced)
+43.0,0.0200086384630334,Technical (forced)
+44.0,0.0189981011669206,Technical (forced)
+45.0,0.0185938862484755,Technical (forced)
+46.0,0.0179875638708078,Technical (forced)
+47.0,0.0177831597359123,Technical (forced)
+50.0,0.0175787556010167,Technical (forced)
+51.0,0.0171699473312256,Technical (forced)
+52.0,0.016556734926539,Technical (forced)
+53.0,0.0159435225218524,Technical (forced)
+56.0,0.0155347142520613,Technical (forced)
+57.0,0.0151259059822702,Technical (forced)
+58.0,0.0147170977124791,Technical (forced)
+59.0,0.0145126935775836,Technical (forced)
+60.0,0.0138994811728969,Technical (forced)
+61.0,0.0130818646333148,Technical (forced)
+63.0,0.0126730563635237,Technical (forced)
+64.0,0.0122642480937326,Technical (forced)
+66.0,0.0120598439588371,Technical (forced)
+68.0,0.0118554398239415,Technical (forced)
+70.0,0.011651035689046,Technical (forced)
+71.0,0.0114466315541504,Technical (forced)
+78.0,0.0112422274192549,Technical (forced)
+79.0,0.0110378232843593,Technical (forced)
+80.0,0.0108334191494638,Technical (forced)
+82.0,0.0104167491821767,Technical (forced)
+83.0,0.0102084141985332,Technical (forced)
+84.0,0.0100000792148896,Technical (forced)
+85.0,0.0097917442312461,Technical (forced)
+86.0,0.0095834092476026,Technical (forced)
+87.0,0.009375074263959,Technical (forced)
+89.0,0.008958404296672,Technical (forced)
+94.0,0.0087500693130284,Technical (forced)
+95.0,0.0085417343293849,Technical (forced)
+97.0,0.0083333993457414,Technical (forced)
+106.0,0.0079167293784543,Technical (forced)
+114.0,0.0075000594111672,Technical (forced)
+117.0,0.0072917244275237,Technical (forced)
+0.0,1.0,Planned maintenance
+0.0,0.9858870967741936,Planned maintenance
+1.0,0.9637096774193548,Planned maintenance
+2.0,0.9294354838709676,Planned maintenance
+3.0,0.8891129032258065,Planned maintenance
+4.0,0.8689516129032259,Planned maintenance
+5.0,0.842741935483871,Planned maintenance
+6.0,0.8306451612903226,Planned maintenance
+7.0,0.8185483870967742,Planned maintenance
+8.0,0.8125,Planned maintenance
+9.0,0.7902674129353233,Planned maintenance
+10.0,0.7821828358208955,Planned maintenance
+11.0,0.7638980422562512,Planned maintenance
+12.0,0.7557497964721845,Planned maintenance
+13.0,0.7435274277960846,Planned maintenance
+14.0,0.7190826904438846,Planned maintenance
+15.0,0.6925256592627184,Planned maintenance
+16.0,0.6741400222911418,Planned maintenance
+17.0,0.6556985019245148,Planned maintenance
+18.0,0.6331588659208596,Planned maintenance
+19.0,0.602422998643148,Planned maintenance
+20.0,0.5715822307945226,Planned maintenance
+21.0,0.5447570719485703,Planned maintenance
+22.0,0.5323762294042845,Planned maintenance
+23.0,0.5220588606173797,Planned maintenance
+24.0,0.511741491830475,Planned maintenance
+25.0,0.4931702280140465,Planned maintenance
+26.0,0.4744422446717409,Planned maintenance
+27.0,0.4640378094815712,Planned maintenance
+28.0,0.4473907131772995,Planned maintenance
+29.0,0.4263864543426846,Planned maintenance
+30.0,0.4095830472749926,Planned maintenance
+31.0,0.3885787884403776,Planned maintenance
+32.0,0.3632366935420921,Planned maintenance
+33.0,0.3526774873344731,Planned maintenance
+34.0,0.3315590749192352,Planned maintenance
+35.0,0.3188068028069569,Planned maintenance
+36.0,0.3060545306946786,Planned maintenance
+37.0,0.2933022585824004,Planned maintenance
+38.0,0.2805499864701221,Planned maintenance
+39.0,0.2614215783017047,Planned maintenance
+40.0,0.2528503790131243,Planned maintenance
+41.0,0.248564779368834,Planned maintenance
+42.0,0.2399935800802536,Planned maintenance
+43.0,0.229279580969528,Planned maintenance
+44.0,0.2164227820366572,Planned maintenance
+45.0,0.2057087829259316,Planned maintenance
+46.0,0.194994783815206,Planned maintenance
+47.0,0.177852385238045,Planned maintenance
+48.0,0.1692811859494645,Planned maintenance
+49.0,0.1628527864830292,Planned maintenance
+50.0,0.1541673045372676,Planned maintenance
+51.0,0.1476531930779465,Planned maintenance
+52.0,0.1389677111321849,Planned maintenance
+53.0,0.1346249701593041,Planned maintenance
+54.0,0.1302822291864233,Planned maintenance
+55.0,0.1215967472406618,Planned maintenance
+56.0,0.1194253767542214,Planned maintenance
+57.0,0.1150826357813406,Planned maintenance
+60.0,0.1129112652949002,Planned maintenance
+61.0,0.1085685243220194,Planned maintenance
+62.0,0.106397153835579,Planned maintenance
+63.0,0.1020544128626983,Planned maintenance
+66.0,0.0911975604304963,Planned maintenance
+67.0,0.0890261899440559,Planned maintenance
+69.0,0.0868548194576155,Planned maintenance
+70.0,0.0846834489711751,Planned maintenance
+71.0,0.0803407079982943,Planned maintenance
+72.0,0.0759979670254136,Planned maintenance
+73.0,0.0738265965389732,Planned maintenance
+74.0,0.0716552260525328,Planned maintenance
+75.0,0.0694838555660924,Planned maintenance
+78.0,0.067312485079652,Planned maintenance
+79.0,0.0651411145932116,Planned maintenance
+80.0,0.0629697441067712,Planned maintenance
+81.0,0.0607983736203308,Planned maintenance
+84.0,0.0542842621610097,Planned maintenance
+86.0,0.0521128916745693,Planned maintenance
+87.0,0.0499415211881289,Planned maintenance
+88.0,0.045401382898299,Planned maintenance
+90.0,0.0408612446084691,Planned maintenance
+94.0,0.0363211063186392,Planned maintenance
+95.0,0.0317809680288093,Planned maintenance
+96.0,0.0295108988838943,Planned maintenance
+102.0,0.0272408297389794,Planned maintenance
+105.0,0.0249707605940644,Planned maintenance
+108.0,0.0227006914491495,Planned maintenance
+111.0,0.0204306223042345,Planned maintenance
+113.0,0.0181605531593196,Planned maintenance
+0.0,1.0,Fuel supply
+0.0,0.847457627118644,Fuel supply
+1.0,0.7254237288135593,Fuel supply
+2.0,0.6610169491525424,Fuel supply
+3.0,0.6169491525423729,Fuel supply
+4.0,0.5457627118644068,Fuel supply
+5.0,0.4983050847457628,Fuel supply
+6.0,0.4711864406779662,Fuel supply
+7.0,0.4440677966101696,Fuel supply
+8.0,0.4203389830508475,Fuel supply
+9.0,0.3864406779661017,Fuel supply
+10.0,0.3593220338983051,Fuel supply
+11.0,0.3389830508474576,Fuel supply
+12.0,0.3152542372881356,Fuel supply
+13.0,0.3084745762711864,Fuel supply
+14.0,0.2983050847457627,Fuel supply
+15.0,0.2915254237288135,Fuel supply
+16.0,0.2711864406779661,Fuel supply
+17.0,0.2542372881355932,Fuel supply
+18.0,0.2508474576271186,Fuel supply
+19.0,0.2440677966101695,Fuel supply
+20.0,0.2372881355932203,Fuel supply
+21.0,0.2305084745762712,Fuel supply
+22.0,0.2271186440677966,Fuel supply
+23.0,0.223728813559322,Fuel supply
+24.0,0.2135593220338983,Fuel supply
+25.0,0.2067796610169492,Fuel supply
+26.0,0.1966101694915254,Fuel supply
+27.0,0.1932203389830508,Fuel supply
+28.0,0.176271186440678,Fuel supply
+30.0,0.1661016949152542,Fuel supply
+31.0,0.1593220338983051,Fuel supply
+32.0,0.1525423728813559,Fuel supply
+34.0,0.135593220338983,Fuel supply
+35.0,0.1288135593220339,Fuel supply
+36.0,0.1220338983050847,Fuel supply
+38.0,0.1186440677966101,Fuel supply
+39.0,0.1084745762711864,Fuel supply
+40.0,0.1050847457627118,Fuel supply
+41.0,0.0983050847457627,Fuel supply
+42.0,0.0949152542372881,Fuel supply
+44.0,0.088135593220339,Fuel supply
+45.0,0.0847457627118644,Fuel supply
+47.0,0.0745762711864406,Fuel supply
+50.0,0.0677966101694915,Fuel supply
+56.0,0.0644067796610169,Fuel supply
+57.0,0.0610169491525423,Fuel supply
+64.0,0.0576271186440678,Fuel supply
+65.0,0.0542372881355932,Fuel supply
+67.0,0.0406779661016949,Fuel supply
+70.0,0.0372881355932203,Fuel supply
+71.0,0.0338983050847457,Fuel supply
+78.0,0.0305084745762711,Fuel supply
+81.0,0.0271186440677966,Fuel supply
+91.0,0.023728813559322,Fuel supply
+99.0,0.0203389830508474,Fuel supply
+106.0,0.0169491525423728,Fuel supply
+0.0,1.0,Demand / commercial (not scheduled)
+0.0,0.8761274804570054,Demand / commercial (not scheduled)
+1.0,0.6915213469633193,Demand / commercial (not scheduled)
+2.0,0.5886056373630343,Demand / commercial (not scheduled)
+3.0,0.5037453154119219,Demand / commercial (not scheduled)
+4.0,0.444764382424624,Demand / commercial (not scheduled)
+5.0,0.4086536071262783,Demand / commercial (not scheduled)
+6.0,0.3695336005530705,Demand / commercial (not scheduled)
+7.0,0.344857904099201,Demand / commercial (not scheduled)
+8.0,0.3249969776851109,Demand / commercial (not scheduled)
+9.0,0.3009231274862138,Demand / commercial (not scheduled)
+10.0,0.2834695860920134,Demand / commercial (not scheduled)
+11.0,0.2690252759726751,Demand / commercial (not scheduled)
+12.0,0.2509698883235023,Demand / commercial (not scheduled)
+13.0,0.2371274244591364,Demand / commercial (not scheduled)
+14.0,0.2232849605947706,Demand / commercial (not scheduled)
+15.0,0.2118498817502945,Demand / commercial (not scheduled)
+16.0,0.195600032866039,Demand / commercial (not scheduled)
+17.0,0.1877760315513974,Demand / commercial (not scheduled)
+18.0,0.178748337726811,Demand / commercial (not scheduled)
+19.0,0.1709243364121694,Demand / commercial (not scheduled)
+20.0,0.1655077201174176,Demand / commercial (not scheduled)
+21.0,0.1582855650577484,Demand / commercial (not scheduled)
+22.0,0.1546744875279139,Demand / commercial (not scheduled)
+23.0,0.1498597174881344,Demand / commercial (not scheduled)
+24.0,0.1432394086834378,Demand / commercial (not scheduled)
+25.0,0.1402301774085756,Demand / commercial (not scheduled)
+26.0,0.1360172536237686,Demand / commercial (not scheduled)
+27.0,0.1312024835839892,Demand / commercial (not scheduled)
+28.0,0.1263877135442098,Demand / commercial (not scheduled)
+29.0,0.1203692509944855,Demand / commercial (not scheduled)
+30.0,0.1185637122295682,Demand / commercial (not scheduled)
+31.0,0.1143507884447612,Demand / commercial (not scheduled)
+32.0,0.1113415571698991,Demand / commercial (not scheduled)
+33.0,0.1083323258950369,Demand / commercial (not scheduled)
+34.0,0.1059249408751472,Demand / commercial (not scheduled)
+35.0,0.1029157096002851,Demand / commercial (not scheduled)
+36.0,0.0968972470505608,Demand / commercial (not scheduled)
+37.0,0.0956935545406159,Demand / commercial (not scheduled)
+38.0,0.0938880157756987,Demand / commercial (not scheduled)
+39.0,0.0914806307558089,Demand / commercial (not scheduled)
+40.0,0.0890732457359192,Demand / commercial (not scheduled)
+41.0,0.0872429735632634,Demand / commercial (not scheduled)
+42.0,0.0854127013906075,Demand / commercial (not scheduled)
+43.0,0.082972338493733,Demand / commercial (not scheduled)
+44.0,0.0823622477695144,Demand / commercial (not scheduled)
+45.0,0.0817521570452957,Demand / commercial (not scheduled)
+46.0,0.0811420663210771,Demand / commercial (not scheduled)
+47.0,0.0799218848726399,Demand / commercial (not scheduled)
+48.0,0.078091612699984,Demand / commercial (not scheduled)
+49.0,0.0738209776304536,Demand / commercial (not scheduled)
+50.0,0.073210886906235,Demand / commercial (not scheduled)
+51.0,0.0719907054577977,Demand / commercial (not scheduled)
+52.0,0.0713806147335791,Demand / commercial (not scheduled)
+53.0,0.0701604332851418,Demand / commercial (not scheduled)
+54.0,0.068330161112486,Demand / commercial (not scheduled)
+55.0,0.0671099796640487,Demand / commercial (not scheduled)
+56.0,0.0652797074913928,Demand / commercial (not scheduled)
+58.0,0.063449435318737,Demand / commercial (not scheduled)
+59.0,0.0628393445945184,Demand / commercial (not scheduled)
+60.0,0.0603989816976439,Demand / commercial (not scheduled)
+61.0,0.0597888909734252,Demand / commercial (not scheduled)
+62.0,0.0591788002492066,Demand / commercial (not scheduled)
+63.0,0.0579586188007694,Demand / commercial (not scheduled)
+64.0,0.0573485280765507,Demand / commercial (not scheduled)
+65.0,0.0567384373523321,Demand / commercial (not scheduled)
+66.0,0.0561283466281135,Demand / commercial (not scheduled)
+68.0,0.0555182559038948,Demand / commercial (not scheduled)
+69.0,0.0542980744554576,Demand / commercial (not scheduled)
+70.0,0.053687983731239,Demand / commercial (not scheduled)
+71.0,0.0524678022828017,Demand / commercial (not scheduled)
+72.0,0.0512476208343645,Demand / commercial (not scheduled)
+74.0,0.0506375301101458,Demand / commercial (not scheduled)
+75.0,0.0500274393859272,Demand / commercial (not scheduled)
+76.0,0.04880725793749,Demand / commercial (not scheduled)
+77.0,0.0481971672132713,Demand / commercial (not scheduled)
+79.0,0.0475870764890527,Demand / commercial (not scheduled)
+80.0,0.0469769857648341,Demand / commercial (not scheduled)
+81.0,0.0463668950406155,Demand / commercial (not scheduled)
+82.0,0.0457568043163968,Demand / commercial (not scheduled)
+84.0,0.043926532143741,Demand / commercial (not scheduled)
+85.0,0.0427063506953037,Demand / commercial (not scheduled)
+87.0,0.0420962599710851,Demand / commercial (not scheduled)
+91.0,0.0414861692468665,Demand / commercial (not scheduled)
+93.0,0.0408760785226478,Demand / commercial (not scheduled)
+94.0,0.0402659877984292,Demand / commercial (not scheduled)
+95.0,0.0396558970742106,Demand / commercial (not scheduled)
+97.0,0.039045806349992,Demand / commercial (not scheduled)
+98.0,0.0372155341773361,Demand / commercial (not scheduled)
+100.0,0.0366054434531175,Demand / commercial (not scheduled)
+101.0,0.0359953527288988,Demand / commercial (not scheduled)
+103.0,0.0353852620046802,Demand / commercial (not scheduled)
+104.0,0.0347751712804616,Demand / commercial (not scheduled)
+106.0,0.034165080556243,Demand / commercial (not scheduled)
+110.0,0.0335549898320243,Demand / commercial (not scheduled)
+116.0,0.0329448991078057,Demand / commercial (not scheduled)
+119.0,0.0317247176593685,Demand / commercial (not scheduled)
+120.0,0.0305045362109312,Demand / commercial (not scheduled)
