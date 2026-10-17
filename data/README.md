@@ -6,7 +6,7 @@ so they are **not stored in this repo**.
 | File | Where it goes | Rows | Size | Notes |
 |---|---|---|---|---|
 | `daily-power-outage.csv` | `data/raw/` | 4,265,703 | ~478 MB | National, Sep 2017 – Apr 2025. Source file. |
-| `cleaned_south_outage_powerbi.csv` | `data/processed/` | 580,825 | ~89 MB | Southern region, 2018-01-01 – 2024-12-10, deduplicated. |
+| `cleaned_south_outage_powerbi.csv.gz` | `data/processed/` (**included in repo**) | 580,825 | 7.3 MB (89 MB unzipped) | Southern region, 2018-01-01 – 2024-12-10, deduplicated. Pandas reads `.csv.gz` directly. |
 | `cleaned_sample_5k.csv` | `data/sample/` (included) | 5,000 | <1 MB | Random sample (seed 42) for quick exploration. |
 
 **Where to get them:** add your download link or release/Drive URL here. The original source link is blank in the codebook, so fill it in.
@@ -35,3 +35,14 @@ so they are **not stored in this repo**.
 | `cause_recorded` | False when no cause is recorded for the row |
 
 The unit of record is one **unit on one day**. The key `date + state_name + power_station + power_station_unit` is unique in the cleaned file.
+
+## Derived tables (`reports/tables/`)
+
+| File | Rows | One row per | Key columns |
+|---|---|---|---|
+| `episodes.csv` | 9,522 | unit outage episode | `power_station, power_station_unit, outage_date, last_seen, duration_days, recovered, cause, remark, mw_days, capacity_mw` |
+| `repeat_units.csv` | 151 | unit with forced outages | `unit, forced_episodes, repeats, repeat_pct, trips_per_year` |
+| `km_curves.csv` | 325 | day × cause | `days, prob_still_down, cause` (Kaplan–Meier recovery curve) |
+| `forecast.csv` | 92 | month | `month, actual, forecast, lower, upper` (average daily outage MW; 2025 forecast) |
+
+These tables feed the Power BI report. Their definitions are in [`docs/methodology.md`](../docs/methodology.md).

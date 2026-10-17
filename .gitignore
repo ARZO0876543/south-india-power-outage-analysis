@@ -3,6 +3,7 @@ data/raw/*
 data/processed/*
 !data/raw/.gitkeep
 !data/processed/.gitkeep
+!data/processed/cleaned_south_outage_powerbi.csv.gz
 
 # Python / Jupyter
 .ipynb_checkpoints/
